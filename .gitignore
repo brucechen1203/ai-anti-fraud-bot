@@ -1,2 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
 .env
-myenv/
+
+# Xcode
+*.xcuserdatad/
+*.xcworkspace/
+*.xcscheme
+*.plist
+
+# Uploads
+AI_http_server/uploads/
